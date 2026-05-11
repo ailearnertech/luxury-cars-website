@@ -123,9 +123,9 @@ This project is created for educational and portfolio purposes.
 
 ## 👨‍💻 Author
 
-**AiLearner-Official**  
+**AiLearnertech Team**  
 Front-End Developer  
-GitHub: https://github.com/AiLearner-Official/AiLearner-Official/
+GitHub: https://github.com/ailearnertech
 
 ---
 
